@@ -10,4 +10,6 @@
     <string name="NameEvent">Название события</string>
     <string name="_14_00_15_10">с 14:00 до 15:10</string>
     <string name="EventInformation">описание события бла бла бла бла ля ля бла бла ля ля бла бла бла...</string>
+    <string name="title_activity_sing_in">SingInActivity</string>
+    <string name="title_activity_sign_in">signin\n</string>
 </resources>

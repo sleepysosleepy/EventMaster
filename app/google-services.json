@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688087763212",
+    "project_id": "eventmaster-227ec",
+    "storage_bucket": "eventmaster-227ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688087763212:android:d88013fbab168077f92129",
+        "android_client_info": {
+          "package_name": "com.example.eventmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2ih0j2GwSpU1TXZHNkyV8CAIEa3Ss6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
